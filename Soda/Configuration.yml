@@ -1,0 +1,13 @@
+data_source example_datasourceyash:
+     type: snowflake
+     username: Harish
+     password: Harish@123
+     account: zo45101.ap-southeast-1
+     database: Example
+     schema: Eg_Schema
+     warehouse: compute_wh
+     role: ACCOUNTADMIN
+soda_cloud:
+     host: cloud.us.soda.io
+     api_key_id: 60dd260a-1e0b-4eaf-9d4f-23dcb14a4b43
+     api_key_secret: 2hg_5OMboEcyqXnfrV-bZj0pnoiY2ApPw0Y31arcHsc2fbp4WGDY1g
